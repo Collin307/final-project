@@ -1,1 +1,1 @@
-https://github.com/Collin307/final-project
+https://collin307.github.io/final-project/
